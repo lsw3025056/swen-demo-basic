@@ -1,5 +1,3 @@
-package PACKAGE_NAME;
-
 /**
  * 日期工具类
  *
